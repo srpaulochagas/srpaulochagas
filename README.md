@@ -3,8 +3,8 @@
 ## Olá, eu sou Paulo César! 👋
 
 - 🖥️ Estudante de Ciência da Computação.
-- 👨‍💻 Sou Desenvolvedor Web FullStack e Mobile.
-- 💡 Estou interessado no **Ecossistema Web e no Desenvolvimento com Flutter.**
+- 👨‍💻 Sou Desenvolvedor Web.
+- 💡 Estou interessado no aprendizado de **Front End.**
 
 
 <div style="display: inline_block"><br>
@@ -13,8 +13,6 @@
   <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
   
   ##
